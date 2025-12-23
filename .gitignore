@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+.env.*
+
+# Expo (accidentally initialized in backend)
+.expo/
+
+# logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
